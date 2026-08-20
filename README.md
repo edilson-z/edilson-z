@@ -31,4 +31,8 @@ I am always looking to learn, grow, and build cool technology. If you want to ta
 
 ##
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/edilson-z/edilson-z/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edilson-z/edilson-z/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edilson-z/edilson-z/output/github-snake.svg" />
+  <img data-importer="snake" src="https://raw.githubusercontent.com/edilson-z/edilson-z/snake-output/snake.svg" alt="Snake animation" />
+</picture>
