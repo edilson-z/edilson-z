@@ -23,7 +23,7 @@ I am a developer who loves exploring new technologies and building creative solu
 
 ## 🤝 Let's Connect 
 
-I am always looking to learn, grow, and build impactful technology. If you want to talk about data, AI, IoT, or a potential project, let's chat!
+I am always looking to learn, grow, and build cool technology. If you want to talk about data, AI, IoT, or a potential project, let's chat!
 
 - 📫 Email me at zauedilson@gmail.com
 - 🔭 Check out [my site](https://edilsonzau.vercel.app)
