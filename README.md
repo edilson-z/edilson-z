@@ -4,7 +4,7 @@
 I am a developer who loves exploring new technologies and building creative solutions. I enjoy diving into diverse projects and turning ideas into code.
 
 
-##  💕 What I Love Doing 
+## ✨ What I Love Doing 
 - 📊 Analysing data and building smart systems
 - 🌐 Creating responsive and user-friendly websites
 - ⚡ Connecting the world with code
